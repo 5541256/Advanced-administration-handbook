@@ -128,7 +128,7 @@ define( 'WP_DEBUG_DISPLAY', false );
 define( 'SCRIPT_DEBUG', true );
 ```
 
-## SAVEQUERIES
+## SAVEQUERIES 
 
 The `SAVEQUERIES` definition saves database queries to an array, which can then be displayed to help analyze those queries. When the constant is set to true, it causes each query to be saved along with the time it took to execute and the function that called it.
 
